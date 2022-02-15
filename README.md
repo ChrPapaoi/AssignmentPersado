@@ -1,7 +1,7 @@
 # Persado Interview Assignment
 
 ## Briefing:
-The scope of this assignment is to write a short test script for a product selection and add to basket at amazon web site(https://www.amazon.com/) Write an automated test for the below scenario with Selenium(Webdriver), preferably in Java or Groovy.
+The scope of this assignment is to write a short test script for a product selection and add to basket at amazon web site(https://www.amazon.com/) Write an automated test for the below scenario with Selenium(Webdriver), preferably in Java or Groovy.
 
 In order to specify configuration settings like browser use a test framework like testNG or Junit Keep in mind that your project need to extend Stevia Framework which will provide you the WebDriver instance and get all the necessary WebDriver action in order to implement your test case. In order to demonstrate existing skills candidate can use test automation patterns like Page Object patterns.
 
